@@ -1,0 +1,14 @@
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/obj/Debug/net8.0/C#Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/obj/Debug/net8.0/C#Sandbox.AssemblyInfoInputs.cache
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/obj/Debug/net8.0/C#Sandbox.AssemblyInfo.cs
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/obj/Debug/net8.0/C#Sandbox.csproj.CoreCompileInputs.cache
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/bin/Debug/net8.0/C#Sandbox
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/bin/Debug/net8.0/C#Sandbox.deps.json
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/bin/Debug/net8.0/C#Sandbox.runtimeconfig.json
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/bin/Debug/net8.0/C#Sandbox.dll
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/bin/Debug/net8.0/C#Sandbox.pdb
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/obj/Debug/net8.0/C#Sandbox.dll
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/obj/Debug/net8.0/refint/C#Sandbox.dll
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/obj/Debug/net8.0/C#Sandbox.pdb
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/obj/Debug/net8.0/C#Sandbox.genruntimeconfig.cache
+/Users/sebastianchalarca/Documents/Coding_Projects/Sandbox/C#Sandbox/obj/Debug/net8.0/ref/C#Sandbox.dll
