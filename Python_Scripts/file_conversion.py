@@ -20,17 +20,31 @@ class Converter:
          print("Yay! Your file has been converted!")
       except Exception as e:
         print("ERROR MESSAGE: "+str(e))
+        
+   def file_to_webp(self, file_name):
+      print("Selected file: ", file_name)
+      print("Converting image to mp4....")
+      try:
+         conversion_process = FFmpeg(
+            inputs={file_name: None},      
+            outputs={file_name[0:len(file_name)-4]+".webp":None}
+         )
+         conversion_process.run()
+         print("Yay! Your file has been converted!")
+      except Exception as e:
+        print("ERROR MESSAGE: "+str(e))
 #The menu options that are printed out continuously after every action.     
 def menu():
    print("File converter: ")
    print("-------------------------")
    print("1) Convert from gif to mp4")
-   print("2) Exit")
+   print("2) Convert image to webp")
+   print("3) Exit")
 #The driver code. The program loops for as long as you don't choose to exit. 
 def main():
    converter = Converter()
    choice = 0
-   while(choice != 2):  
+   while(choice != 4):  
       menu()
       choice = int(input("Select file conversion type: "))
       if choice == 1:   
@@ -40,6 +54,13 @@ def main():
            except Exception as e:     
               print("Sorry! No can do! ERROR MESSAGE: "+str(e))             
       if choice == 2:
-            print("Goodbye!")
+           try:
+              print("Converting image to webp...")
+              file_name = input("Choose file to convert. Include the file extension: ")
+              converter.file_to_webp(file_name)
+           except Exception as e:     
+              print("Sorry! No can do! ERROR MESSAGE: "+str(e))  
+      if choice == 3:
+           print("Goodbye!")
       
 main()
