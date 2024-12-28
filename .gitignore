@@ -1,2 +1,3 @@
 #Python env configurations
 .venv
+node_modules

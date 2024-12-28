@@ -13,7 +13,8 @@ Whether I am testing out features of a programming language, writing a simple pr
 - Python
 - Ruby (Passing familiarity with it, particularly in conducting unit testing with RSpec and ensuring that controllers are sending data to routes)
 
-## Languages that I am currently learning
+## Technologies i am currently learning
 - Typescript
-- Swift 
-- C#
+- Next.js
+- Express.js
+- PHP
